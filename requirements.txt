@@ -1,0 +1,13 @@
+flask
+openai>=1.0.0
+qdrant_client
+transformers
+requests
+matplotlib
+torch
+dotenv
+nomic
+nomic[local]
+faiss-cpu
+numpy
+sentence-transformers
